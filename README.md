@@ -129,15 +129,6 @@ Test all endpoints using Postman:
 
 ---
 
-## ✅ TODO
-
-- Add JWT authentication  
-- Add pagination  
-- Improve validation structure  
-- Add unit tests
-
----
-
 ## 👨‍💻 Author
 
 Developed by **Ziad Amr**  
